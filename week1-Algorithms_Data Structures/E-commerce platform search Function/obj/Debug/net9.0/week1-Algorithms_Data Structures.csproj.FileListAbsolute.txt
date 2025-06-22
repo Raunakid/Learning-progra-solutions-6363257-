@@ -1,0 +1,30 @@
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\bin\Debug\net9.0\week1-Algorithms_Data Structures.exe
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\bin\Debug\net9.0\week1-Algorithms_Data Structures.deps.json
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\bin\Debug\net9.0\week1-Algorithms_Data Structures.runtimeconfig.json
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\bin\Debug\net9.0\week1-Algorithms_Data Structures.dll
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\bin\Debug\net9.0\week1-Algorithms_Data Structures.pdb
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\obj\Debug\net9.0\week1-Algorithms_Data Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\obj\Debug\net9.0\week1-Algorithms_Data Structures.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\obj\Debug\net9.0\week1-Algorithms_Data Structures.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\obj\Debug\net9.0\week1-Algorithms_Data Structures.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\obj\Debug\net9.0\week1-Algorithms_Data Structures.sourcelink.json
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\obj\Debug\net9.0\week1-Algorithms_Data Structures.dll
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\obj\Debug\net9.0\refint\week1-Algorithms_Data Structures.dll
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\obj\Debug\net9.0\week1-Algorithms_Data Structures.pdb
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\obj\Debug\net9.0\week1-Algorithms_Data Structures.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\obj\Debug\net9.0\ref\week1-Algorithms_Data Structures.dll
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\E-commerce platform search Function\bin\Debug\net9.0\week1-Algorithms_Data Structures.exe
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\E-commerce platform search Function\bin\Debug\net9.0\week1-Algorithms_Data Structures.deps.json
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\E-commerce platform search Function\bin\Debug\net9.0\week1-Algorithms_Data Structures.runtimeconfig.json
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\E-commerce platform search Function\bin\Debug\net9.0\week1-Algorithms_Data Structures.dll
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\E-commerce platform search Function\bin\Debug\net9.0\week1-Algorithms_Data Structures.pdb
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\E-commerce platform search Function\obj\Debug\net9.0\week1-Algorithms_Data Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\E-commerce platform search Function\obj\Debug\net9.0\week1-Algorithms_Data Structures.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\E-commerce platform search Function\obj\Debug\net9.0\week1-Algorithms_Data Structures.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\E-commerce platform search Function\obj\Debug\net9.0\week1-Algorithms_Data Structures.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\E-commerce platform search Function\obj\Debug\net9.0\week1-Algorithms_Data Structures.sourcelink.json
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\E-commerce platform search Function\obj\Debug\net9.0\week1-Algorithms_Data Structures.dll
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\E-commerce platform search Function\obj\Debug\net9.0\refint\week1-Algorithms_Data Structures.dll
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\E-commerce platform search Function\obj\Debug\net9.0\week1-Algorithms_Data Structures.pdb
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\E-commerce platform search Function\obj\Debug\net9.0\week1-Algorithms_Data Structures.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Algorithms_Data Structures\E-commerce platform search Function\obj\Debug\net9.0\ref\week1-Algorithms_Data Structures.dll

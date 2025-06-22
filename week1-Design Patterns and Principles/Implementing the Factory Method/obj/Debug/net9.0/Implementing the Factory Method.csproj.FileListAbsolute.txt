@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Factory Method\obj\Debug\net9.0\Implementing the Factory Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Factory Method\obj\Debug\net9.0\Implementing the Factory Method.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Factory Method\obj\Debug\net9.0\Implementing the Factory Method.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Factory Method\obj\Debug\net9.0\Implementing the Factory Method.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Factory Method\obj\Debug\net9.0\Implementing the Factory Method.sourcelink.json
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Factory Method\bin\Debug\net9.0\Implementing the Factory Method.exe
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Factory Method\bin\Debug\net9.0\Implementing the Factory Method.deps.json
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Factory Method\bin\Debug\net9.0\Implementing the Factory Method.runtimeconfig.json
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Factory Method\bin\Debug\net9.0\Implementing the Factory Method.dll
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Factory Method\bin\Debug\net9.0\Implementing the Factory Method.pdb
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Factory Method\obj\Debug\net9.0\Implementing the Factory Method.dll
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Factory Method\obj\Debug\net9.0\refint\Implementing the Factory Method.dll
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Factory Method\obj\Debug\net9.0\Implementing the Factory Method.pdb
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Factory Method\obj\Debug\net9.0\Implementing the Factory Method.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Factory Method\obj\Debug\net9.0\ref\Implementing the Factory Method.dll

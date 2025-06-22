@@ -1,0 +1,52 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week1-Algorithms_Data Structures", "week1-Algorithms_Data Structures", "{03BDCFBF-1D68-993F-665B-2DE471747A11}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week1-Design Patterns and Principles", "week1-Design Patterns and Principles", "{46BA4D1D-C729-EF46-D780-834F38A3CCE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week1-Algorithms_Data Structures", "week1-Algorithms_Data Structures\E-commerce platform search Function\week1-Algorithms_Data Structures.csproj", "{58136F3F-1FA1-A1B3-CB41-430307A7C55E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Financial Forecating", "week1-Algorithms_Data Structures\Financial Forecating\Financial Forecating.csproj", "{B6D0DE10-15F0-2E2C-56A7-DA4B5B33A81F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementing the Factory Method", "week1-Design Patterns and Principles\Implementing the Factory Method\Implementing the Factory Method.csproj", "{F5F97EC5-2692-211F-AC28-F68AC15D59AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementing the Singleton Pattern", "week1-Design Patterns and Principles\Implementing the Singleton Pattern\Implementing the Singleton Pattern.csproj", "{9C77EC47-74A6-0819-8AD9-F7EFB390410D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58136F3F-1FA1-A1B3-CB41-430307A7C55E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58136F3F-1FA1-A1B3-CB41-430307A7C55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58136F3F-1FA1-A1B3-CB41-430307A7C55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58136F3F-1FA1-A1B3-CB41-430307A7C55E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D0DE10-15F0-2E2C-56A7-DA4B5B33A81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D0DE10-15F0-2E2C-56A7-DA4B5B33A81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D0DE10-15F0-2E2C-56A7-DA4B5B33A81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D0DE10-15F0-2E2C-56A7-DA4B5B33A81F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5F97EC5-2692-211F-AC28-F68AC15D59AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F97EC5-2692-211F-AC28-F68AC15D59AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F97EC5-2692-211F-AC28-F68AC15D59AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F97EC5-2692-211F-AC28-F68AC15D59AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C77EC47-74A6-0819-8AD9-F7EFB390410D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C77EC47-74A6-0819-8AD9-F7EFB390410D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C77EC47-74A6-0819-8AD9-F7EFB390410D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C77EC47-74A6-0819-8AD9-F7EFB390410D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{58136F3F-1FA1-A1B3-CB41-430307A7C55E} = {03BDCFBF-1D68-993F-665B-2DE471747A11}
+		{B6D0DE10-15F0-2E2C-56A7-DA4B5B33A81F} = {03BDCFBF-1D68-993F-665B-2DE471747A11}
+		{F5F97EC5-2692-211F-AC28-F68AC15D59AD} = {46BA4D1D-C729-EF46-D780-834F38A3CCE5}
+		{9C77EC47-74A6-0819-8AD9-F7EFB390410D} = {46BA4D1D-C729-EF46-D780-834F38A3CCE5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC2C62F3-7F87-41B2-BAC1-C8065FB3848F}
+	EndGlobalSection
+EndGlobal

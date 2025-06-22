@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Singleton Pattern\bin\Debug\net9.0\Implementing the Singleton Pattern.exe
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Singleton Pattern\bin\Debug\net9.0\Implementing the Singleton Pattern.deps.json
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Singleton Pattern\bin\Debug\net9.0\Implementing the Singleton Pattern.runtimeconfig.json
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Singleton Pattern\bin\Debug\net9.0\Implementing the Singleton Pattern.dll
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Singleton Pattern\bin\Debug\net9.0\Implementing the Singleton Pattern.pdb
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Singleton Pattern\obj\Debug\net9.0\Implementing the Singleton Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Singleton Pattern\obj\Debug\net9.0\Implementing the Singleton Pattern.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Singleton Pattern\obj\Debug\net9.0\Implementing the Singleton Pattern.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Singleton Pattern\obj\Debug\net9.0\Implementing the Singleton Pattern.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Singleton Pattern\obj\Debug\net9.0\Implementing the Singleton Pattern.sourcelink.json
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Singleton Pattern\obj\Debug\net9.0\Implementing the Singleton Pattern.dll
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Singleton Pattern\obj\Debug\net9.0\refint\Implementing the Singleton Pattern.dll
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Singleton Pattern\obj\Debug\net9.0\Implementing the Singleton Pattern.pdb
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Singleton Pattern\obj\Debug\net9.0\Implementing the Singleton Pattern.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Cognizent\cognizant-solution-6365392\week1-Design Patterns and Principles\Implementing the Singleton Pattern\obj\Debug\net9.0\ref\Implementing the Singleton Pattern.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Implementing the Factory Method/1.0.0": {
+        "runtime": {
+          "Implementing the Factory Method.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Implementing the Factory Method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
